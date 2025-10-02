@@ -1,6 +1,12 @@
 # 🎥 Cinema ESTELAR  - UdeA 🌟
 
 ## Licencia
+<div align="center">
+    <img alt="I&S" height="135px" src="https://creativecommons.org/licenses/by-nc-sa/4.0">
+</div>
+
+<hr size="10" noshade color="green">
+
  <img alt="CC" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0//main/images/by.xlarge.png">
  <img alt="Attribution" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/main/images/nc.xlarge.png">
  <img alt="NC" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/main/images/sa.xlarge.png">
