@@ -3,11 +3,14 @@
 ---
 
 ## 👥 Integrantes
-- **Veronika Calvache** -> Lider del proyecto, organiza tiempos y distribucion de tareas. Documentador (escribe el Readme, redacta las actas).
+**Veronika Calvache** 
+>* Lider del proyecto, organiza tiempos y distribucion de tareas. Documentador (escribe el Readme, redacta las actas).
 
-- **Pedro Pimienta** -> Encargado de repositorio GitHub, flujo principal del programa y estructura en Python.
+**Pedro Pimienta** 
+>* Encargado de repositorio GitHub, flujo principal del programa y estructura en Python.
 
-- **Alejandro Torres** -> Evaluador del proyecto y responsable de la presentacion visual y organizacion clara del programa. 
+**Alejandro Torres** 
+>* Evaluador del proyecto y responsable de la presentacion visual y organizacion clara del programa. 
 
 ---
 
