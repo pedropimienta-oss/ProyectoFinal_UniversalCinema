@@ -2,7 +2,7 @@
 
 ## Licencia
 <div align="center">
-    <img alt="I&S" height="135px" src="https://creativecommons.org/licenses/by-nc-sa/4.0">
+    <img alt="I&S" height="135px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 </div>
 
 <hr size="10" noshade color="green">
