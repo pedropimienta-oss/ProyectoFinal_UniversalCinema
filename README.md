@@ -1,7 +1,7 @@
 # 🎥 Cinema ESTELAR  - UdeA 🌟
 
 ## Licencia
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+ <img alt="CC" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0//main/images/by.xlarge.png">
 
 ## 👥 Integrantes
 **Veronika Calvache** 
