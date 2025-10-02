@@ -2,6 +2,9 @@
 
 ## Licencia
  <img alt="CC" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0//main/images/by.xlarge.png">
+ <img alt="Attribution" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/main/images/nc.xlarge.png">
+ <img alt="NC" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/main/images/sa.xlarge.png">
+ <img alt="SA" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/main/images/cc-icons.png">
 
 ## 👥 Integrantes
 **Veronika Calvache** 
